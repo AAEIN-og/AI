@@ -1,0 +1,5 @@
+1.Reflexive
+	A+(B+C)=(A+B)+C
+
+2.Distributive
+	A(B+C)=AB+AC
